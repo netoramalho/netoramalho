@@ -1,6 +1,6 @@
 ### Hey, I'm Neto Ramalho! 👋
 
-🤓&nbsp;&nbsp;Full-Stack Engineer / Co-Founder, at [@ConectaLead](https://github.com/conectalead/) <br>
+🤓&nbsp;&nbsp;Senior Frontend Developer, at [@Teamwork](https://github.com/teamwork/) <br>
 🇧🇷&nbsp;&nbsp;Based in Curitiba, Brazil
 
 ### Get in Touch
